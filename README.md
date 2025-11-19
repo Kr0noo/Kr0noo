@@ -19,7 +19,7 @@ Soy un apasionado por los datos y la arquitectura de software. Mi enfoque profes
 | Herramienta | Uso Principal |
 | :--- | :--- |
 | <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> | Visualización y Reportes |
-| <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> | Análisis Avanzado y Power Query |
+| <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> | Análisis Intermedio y Power Query |
 | <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> | Consultas y Manipulación de Datos |
 
 #### 💻 Backend Development
