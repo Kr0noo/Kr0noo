@@ -32,11 +32,6 @@ Soy un apasionado por los datos y la arquitectura de software. Mi enfoque profes
 
 ---
 
-### 📈 Mis Estadísticas
-![Estadísticas de Kr0noo](https://github-readme-stats.vercel.app/api?username=Kr0noo&show_icons=true&theme=radical&hide_border=true)
-
----
-
 ### 📫 Contacto
 * 📧 **Email:** pokofloro06@gmail.com
 * 📱 **Móvil:** 900889763
